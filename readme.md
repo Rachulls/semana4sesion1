@@ -1,10 +1,10 @@
 ## CSS ORIENTADO A TEXTO
-> .[!Tamaños de fuente]
+> .[!Tamaños de fuente].
 > Pixeles -> Tamaño absoluto
 > em -> Tamaño del contexto, toma el tamaño del padre (1em = 16px)
 > rem -> Tamaño heredado del html
 
-> .[!Propiedades de fuente]
+> .[!Propiedades de fuente].
 > line-height -> Altura entre las lineas del texto
 > text-transform -> Modifica las palabras.
 > text.align -> Posicion de las palabras, solo se usa para elementos de bloque.
